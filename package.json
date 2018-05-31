@@ -1,0 +1,15 @@
+{
+  "name": "memebot",
+  "version": "1.0.0",
+  "description": "A bot for cool servers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "No",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "superagent": "^3.8.2"
+  }
+}
